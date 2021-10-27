@@ -1,5 +1,5 @@
 # Smartsheets Automation Demo
-Check out the walkthrough here: *link TBA*
+Check out the walkthrough here: [youtube video](https://youtu.be/qYZ1MZgbQmU)
 
 # Get Started
  - `npm install`
